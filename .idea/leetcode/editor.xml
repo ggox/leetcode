@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ggox/leet_code/leetcode/editor/cn/TwoSum.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/ggox/leet_code/leetcode/editor/cn/TwoSum.java" />
+              <option name="questionId" value="1" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/AddTwoNumbers.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/AddTwoNumbers.java" />
+              <option name="questionId" value="2" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/AverageOfLevelsInBinaryTree.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/AverageOfLevelsInBinaryTree.java" />
+              <option name="questionId" value="637" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/BackspaceStringCompare.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/BackspaceStringCompare.java" />
+              <option name="questionId" value="874" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/BinaryTreePaths.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/BinaryTreePaths.java" />
+              <option name="questionId" value="257" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/ConvertSortedArrayToBinarySearchTree.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/ConvertSortedArrayToBinarySearchTree.java" />
+              <option name="questionId" value="108" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/FirstMissingPositive.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/FirstMissingPositive.java" />
+              <option name="questionId" value="41" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/HowManyNumbersAreSmallerThanTheCurrentNumber.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/HowManyNumbersAreSmallerThanTheCurrentNumber.java" />
+              <option name="questionId" value="1482" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/InsertIntoABinarySearchTree.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/InsertIntoABinarySearchTree.java" />
+              <option name="questionId" value="784" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/IntegerBreak.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/IntegerBreak.java" />
+              <option name="questionId" value="343" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/InterleavingString.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/InterleavingString.java" />
+              <option name="questionId" value="97" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/IntersectionOfTwoArraysIi.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/IntersectionOfTwoArraysIi.java" />
+              <option name="questionId" value="350" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/JewelsAndStones.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/JewelsAndStones.java" />
+              <option name="questionId" value="782" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/LinkedListCycle.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/LinkedListCycle.java" />
+              <option name="questionId" value="141" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/LinkedListCycleIi.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/LinkedListCycleIi.java" />
+              <option name="questionId" value="142" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/LongestIncreasingPathInAMatrix.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/LongestIncreasingPathInAMatrix.java" />
+              <option name="questionId" value="329" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/LongestMountainInArray.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/LongestMountainInArray.java" />
+              <option name="questionId" value="875" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/LongestValidParentheses.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/LongestValidParentheses.java" />
+              <option name="questionId" value="32" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/MinimumAbsoluteDifferenceInBst.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/MinimumAbsoluteDifferenceInBst.java" />
+              <option name="questionId" value="530" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/NQueensIi.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/NQueensIi.java" />
+              <option name="questionId" value="52" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/PartitionEqualSubsetSum.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/PartitionEqualSubsetSum.java" />
+              <option name="questionId" value="416" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/ReSpaceLcci.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/ReSpaceLcci.java" />
+              <option name="questionId" value="1000020" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/RemoveDuplicateNodeLcci.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/RemoveDuplicateNodeLcci.java" />
+              <option name="questionId" value="100163" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/RemoveNthNodeFromEndOfList.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/RemoveNthNodeFromEndOfList.java" />
+              <option name="questionId" value="19" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/RobotReturnToOrigin.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/RobotReturnToOrigin.java" />
+              <option name="questionId" value="657" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/ShortestPalindrome.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/ShortestPalindrome.java" />
+              <option name="questionId" value="214" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/SplitArrayLargestSum.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/SplitArrayLargestSum.java" />
+              <option name="questionId" value="410" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/TwoSum.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/TwoSum.java" />
+              <option name="questionId" value="1" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/UlBDOe.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/UlBDOe.java" />
+              <option name="questionId" value="1000130" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/VideoStitching.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/VideoStitching.java" />
+              <option name="questionId" value="1081" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/WildcardMatching.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/WildcardMatching.java" />
+              <option name="questionId" value="44" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/XunBao.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/XunBao.java" />
+              <option name="questionId" value="1000093" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0cf7e2a7-3c3b-4e43-836a-8e3611bd45e4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +61,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.ignored.files" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.28004074" />
   </component>
   <component name="RecentsManager">
@@ -215,7 +213,7 @@
       <workItem from="1603016256101" duration="173000" />
       <workItem from="1603043182571" duration="383000" />
       <workItem from="1603477051256" duration="799000" />
-      <workItem from="1603563462583" duration="1368000" />
+      <workItem from="1603563462583" duration="1554000" />
     </task>
     <servers />
   </component>
@@ -328,10 +326,10 @@
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
     <state width="1878" height="344" key="GridCell.Tab.3.right/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1602260900026" />
-    <state x="-1514" y="225" key="SettingsEditor" timestamp="1603717473315">
+    <state x="-1514" y="225" key="SettingsEditor" timestamp="1603717664612">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="-1514" y="225" key="SettingsEditor/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1603717473315" />
+    <state x="-1514" y="225" key="SettingsEditor/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1603717664612" />
     <state x="-1514" y="243" key="SettingsEditor/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1602398529151" />
     <state x="-1230" y="307" width="540" height="513" key="StructurePopup" timestamp="1602258775810">
       <screen x="-1920" y="23" width="1920" height="1057" />

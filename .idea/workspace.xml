@@ -5,172 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0cf7e2a7-3c3b-4e43-836a-8e3611bd45e4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ggox/template/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/AddTwoNumbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/AverageOfLevelsInBinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/BackspaceStringCompare.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/BinaryTreePaths.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/ContinuousSubarraySum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/ConvertSortedArrayToBinarySearchTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/FenwickTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/FindMinimumTimeToFinishAllJobs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/FirstMissingPositive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/HowManyNumbersAreSmallerThanTheCurrentNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/InsertDeleteGetrandomO1DuplicatesAllowed.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/InsertIntoABinarySearchTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/IntegerBreak.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/InterleavingString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/IntersectionOfTwoArraysIi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/JewelsAndStones.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/KeysAndRooms.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/KthLargestElementInAStream.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/LinkedListCycle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/LinkedListCycleIi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/LongestIncreasingPathInAMatrix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/LongestMountainInArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/LongestValidParentheses.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/MinimumAbsoluteDifferenceInBst.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/NQueensIi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/NumberOfWaysToStayInTheSamePlaceAfterSomeSteps.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/PartitionEqualSubsetSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/QueueReconstructionByHeight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/ReSpaceLcci.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/RelativeSortArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/RemoveDuplicateNodeLcci.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/RemoveKDigits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/RemoveNthNodeFromEndOfList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/ReverseWordsInAStringIii.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/RobotReturnToOrigin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/ShortestPalindrome.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/SplitArrayLargestSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/TrappingRainWater.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/TwoSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/UlBDOe.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/VideoStitching.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/WiggleSubsequence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/WildcardMatching.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/WordBreak.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/WordBreakIi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/XunBao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/all.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/common/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/common/TreeNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/doc/gen-ju-shen-gao-zhong-jian-dui-lie-by-leetcode-sol.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/doc/p__0,_cdots,_i-1_.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/doc/p__0___k_le_n_.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/doc/p__2delta_.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/doc/p__O_log_m_+_n__.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/doc/p__O_log_m__.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/doc/p__O_log_n__.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/doc/p__O_m_+_n_+_textit{upper}__.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/doc/p__O_m_log_m_+_n__.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/doc/p__O_m_log_m__.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/doc/p__O_n_log_n__.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/doc/p__O_textit{upper}__.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/doc/p___0,_textit{rank}_x___.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/doc/p___D_0D_1D_2D_3ldots_D_{n-1}__.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/doc/p___textit{arr}_2_i_,_i__.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/doc/p__delta_.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/doc/p__h_0,_h_1,_cdots,_h_{n-1}_.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/doc/p__i+1,_cdots,_n-1_.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/doc/p__textit{arr}_1_.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/doc/p__textit{arr}_2_.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/doc/p__textit{frequency}_.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/doc/p__textit{frequency}_x__.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/doc/p__textit{people}_.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/doc/p__textit{rank}_.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/doc/p__textit{rank}_x_-n_.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/doc/p__textit{rank}_x__.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/doc/p__textit{rank}_y__.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/doc/p__textit{upper}+1_.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/doc/p__textit{upper}_.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/doc/shu-zu-de-xiang-dui-pai-xu-by-leetcode-solution.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/doc/yi-diao-kwei-shu-zi-by-leetcode-solution.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggox/leetcode/editor/cn/translation.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/AddTwoNumbers$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/AddTwoNumbers$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/AddTwoNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/AverageOfLevelsInBinaryTree$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/AverageOfLevelsInBinaryTree$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/AverageOfLevelsInBinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/BackspaceStringCompare$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/BackspaceStringCompare.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/BinaryTreePaths$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/BinaryTreePaths$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/BinaryTreePaths.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/ConvertSortedArrayToBinarySearchTree$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/ConvertSortedArrayToBinarySearchTree$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/ConvertSortedArrayToBinarySearchTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/FenwickTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/FirstMissingPositive$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/FirstMissingPositive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/HowManyNumbersAreSmallerThanTheCurrentNumber$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/HowManyNumbersAreSmallerThanTheCurrentNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/InsertIntoABinarySearchTree$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/InsertIntoABinarySearchTree$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/InsertIntoABinarySearchTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/IntegerBreak$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/IntegerBreak.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/InterleavingString$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/InterleavingString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/IntersectionOfTwoArraysIi$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/IntersectionOfTwoArraysIi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/JewelsAndStones$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/JewelsAndStones.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/KeysAndRooms$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/KeysAndRooms.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/LinkedListCycle$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/LinkedListCycle$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/LinkedListCycle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/LinkedListCycleIi$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/LinkedListCycleIi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/LongestIncreasingPathInAMatrix$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/LongestIncreasingPathInAMatrix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/LongestMountainInArray$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/LongestMountainInArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/LongestValidParentheses$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/LongestValidParentheses.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/MinimumAbsoluteDifferenceInBst$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/MinimumAbsoluteDifferenceInBst.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/NQueensIi$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/NQueensIi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/PartitionEqualSubsetSum$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/PartitionEqualSubsetSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/ReSpaceLcci$Solution$Trie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/ReSpaceLcci$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/ReSpaceLcci.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/RemoveDuplicateNodeLcci$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/RemoveDuplicateNodeLcci$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/RemoveDuplicateNodeLcci.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/RemoveNthNodeFromEndOfList$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/RemoveNthNodeFromEndOfList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/ReverseWordsInAStringIii$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/ReverseWordsInAStringIii.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/RobotReturnToOrigin$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/RobotReturnToOrigin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/ShortestPalindrome$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/ShortestPalindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/SplitArrayLargestSum$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/SplitArrayLargestSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/TrappingRainWater$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/TrappingRainWater.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/TwoSum$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/TwoSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/UlBDOe$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/UlBDOe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/VideoStitching$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/VideoStitching.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/WildcardMatching$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/WildcardMatching.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/WordBreak$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/WordBreak.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/XunBao$Solution$Location.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/XunBao$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/XunBao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/common/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ggox/leetcode/editor/cn/common/TreeNode.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -249,6 +86,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
@@ -263,20 +103,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LargestPalindromeProduct">
-    <configuration name="ByteCode1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ggox.leetcode.interview.ByteCode1" />
-      <module name="leet_code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ggox.leetcode.interview.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.QuickSort">
     <configuration name="InsertDeleteGetrandomO1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ggox.leetcode.editor.cn.InsertDeleteGetrandomO1" />
       <module name="leet_code" />
@@ -316,6 +143,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ggox.template.QuickSort" />
+      <module name="leet_code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ggox.template.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="VisitorPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ggox.leetcode.designpattern.VisitorPattern" />
       <module name="leet_code" />
@@ -331,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.VisitorPattern" />
         <item itemvalue="Application.MSFQS" />
         <item itemvalue="Application.LargestPalindromeProduct" />
         <item itemvalue="Application.InsertDeleteGetrandomO1" />
-        <item itemvalue="Application.ByteCode1" />
       </list>
     </recent_temporary>
   </component>
@@ -437,6 +277,7 @@
       <workItem from="1650040836945" duration="158000" />
       <workItem from="1650041008291" duration="1614000" />
       <workItem from="1650708923185" duration="149000" />
+      <workItem from="1663517614292" duration="566000" />
     </task>
     <servers />
   </component>

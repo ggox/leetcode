@@ -12,8 +12,26 @@ public class QuickSort {
 
     public static void main(String[] args) {
         int[] q = {3, 12, 2, 1, 2, 5, 8, 2, 3, 9, 3, 4, 7, 5, 3, 123, 3, 4, 6};
-        quickSort(q, 0, q.length - 1);
+        quickSort2(q, 0, q.length - 1);
         System.out.println(Arrays.toString(q));
+    }
+
+    static void quickSort2(int[] q, int l, int r) {
+        if (l >= r) {
+            return;
+        }
+        int i = l - 1;
+        int j = r + 1;
+        int x = q[l + r >> 1];
+        while (i < j) {
+            while (q[++i] < x) ;
+            while (q[--j] > x) ;
+            if (i < j) {
+                swap(q, i, j);
+            }
+        }
+        quickSort2(q, l, j);
+        quickSort2(q, j + 1, r);
     }
 
     static void quickSort(int[] q, int l, int r) {
